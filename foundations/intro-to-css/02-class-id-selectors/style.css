@@ -1,1 +1,22 @@
 /* Add CSS Styling */
+.one {
+    background-color: pink;
+    font-size: 26px;
+}
+
+#one {
+    color: blue;
+    font-weight: bold;
+    font-size: 60px;
+}
+
+#four {
+    background-color: rgb(89, 252, 89);
+    font-weight: bold;
+    font-size: 32px;
+}
+
+.three {
+    font-weight: bold;
+    font-size: 30px;
+}
